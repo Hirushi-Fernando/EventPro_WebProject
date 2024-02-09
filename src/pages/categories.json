@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "label": "Weddings",
+        "urlImage": "/categories/weddings.jpg"
+    },
+    {
+        "id": 2,
+        "label": "Parties",
+        "urlImage": "/categories/parties.jpg"
+    },
+    {
+        "id": 3,
+        "label": "Events",
+        "urlImage": "/categories/events.jpg"
+    },
+    {
+        "id": 4,
+        "label": "Workshops",
+        "urlImage": "/categories/workshops.jpg"
+    }
+]

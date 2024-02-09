@@ -1,0 +1,102 @@
+  .customize-page {
+    background-color: #e5e5e5;
+    padding-left: 280px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .sidebar h2 {
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    padding: 15px 30px;
+    text-align: left;
+  }
+  
+  .sidebar a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .header h5 {
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+  }
+  
+  .header h4 {
+    padding-left: 40px;
+  }
+  
+  .search-bar {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .search-bar input {
+    padding: 8px;
+    border: transparent;
+    border-radius: 60px;
+    margin-right: 5px;
+    width: 30%;
+  }
+  
+  .search-bar button {
+    padding: 4px;
+    background-color: #ffffff;
+    border: transparent;
+    
+  }
+  /* Styling for accordion headers */
+.accordion-header {
+    background-color: #f0f0f0; /* Change background color */
+    color: #333; /* Change text color */
+    padding: 10px; /* Adjust padding */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
+  /* Styling for active accordion headers */
+  .accordion-header.active {
+    background-color: #ccc; /* Change background color */
+  }
+  
+  /* Styling for accordion body */
+  .accordion-body {
+    background-color: #fff; /* Change background color */
+    color: #555; /* Change text color */
+    padding: 10px; /* Adjust padding */
+    border: 1px solid #ddd; /* Add border */
+  }
+  
+
+  
+  
+ 
+  
+  
+  
+  
+ 
